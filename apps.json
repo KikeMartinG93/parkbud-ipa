@@ -1,0 +1,36 @@
+{
+  "name": "ParkBud",
+  "identifier": "us.marting.parkbud.source",
+  "sourceURL": "https://raw.githubusercontent.com/KikeMartinG93/parkbud-ipa/main/apps.json",
+  "apps": [
+    {
+      "name": "ParkBud",
+      "bundleIdentifier": "us.marting.parkbud",
+      "developerName": "KikeMartinG93",
+      "subtitle": "Street-cleaning parking reminders for your block",
+      "localizedDescription": "ParkBud looks up your street-cleaning schedule from an address and tells you which side of the street to park on. Add the Lock Screen widget for a live reminder of current restrictions.\n\nSideStore will re-sign this IPA with your Apple ID before install. Refresh the app about every 7 days if you use a free developer account. The widget and App Group extras may not survive every signing setup; the iPhone app is the install target.",
+      "iconURL": "https://raw.githubusercontent.com/KikeMartinG93/parkbud-ipa/main/icon.png",
+      "tintColor": "#69EA28",
+      "downloadURL": "https://github.com/KikeMartinG93/parkbud-ipa/releases/download/v1.0/ParkBud.ipa",
+      "size": 178242,
+      "version": "1.0",
+      "versionDate": "2026-10-30",
+      "permissions": [
+        {
+          "type": "location",
+          "usageDescription": "ParkBud uses your location when you park to work out which side of the street your car is on and when that side is swept."
+        }
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-30",
+          "downloadURL": "https://github.com/KikeMartinG93/parkbud-ipa/releases/download/v1.0/ParkBud.ipa",
+          "size": 178242,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Initial SideStore-ready IPA (arm64, bundle us.marting.parkbud)."
+        }
+      ]
+    }
+  ]
+}
