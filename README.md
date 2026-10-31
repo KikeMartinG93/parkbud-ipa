@@ -2,7 +2,7 @@
 
 Compiled ParkBud IPA for SideStore to sign and install. This repo is the IPA and source listing only — not the app source.
 
-Current IPA: **ParkBud 2.0.1 (build 11)**.
+Current IPA: **ParkBud 2.0.2 (build 12)**.
 
 ## Add in SideStore
 
@@ -19,14 +19,14 @@ Or tap this link on a device with SideStore installed:
 
 Then install **ParkBud** from the source and let SideStore re-sign it.
 
-If you already have 1.0 installed, refresh the source and install 2.0.1 as an update.
+If you already have an earlier version installed, refresh the source and install 2.0.2 as an update.
 
 ## IPA
 
-- App: ParkBud 2.0.1 (build 11)
+- App: ParkBud 2.0.2 (build 12)
 - Bundle ID: `us.marting.parkbud`
 - Minimum iOS: 17.0
-- Direct download: [ParkBud.ipa](https://github.com/KikeMartinG93/parkbud-ipa/releases/download/v2.0.1/ParkBud.ipa)
+- Direct download: [ParkBud.ipa](https://github.com/KikeMartinG93/parkbud-ipa/releases/download/v2.0.2/ParkBud.ipa)
 
 ## Notes
 

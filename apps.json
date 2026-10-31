@@ -8,12 +8,12 @@
       "bundleIdentifier": "us.marting.parkbud",
       "developerName": "KikeMartinG93",
       "subtitle": "Street-cleaning parking reminders for your block",
-      "localizedDescription": "ParkBud looks up your street-cleaning schedule from an address and tells you which side of the street to park on. Follow light or dark mode, and add the Lock Screen widget or Apple Watch complication.\n\nThis listing is ParkBud 2.0.1. SideStore will re-sign the IPA with your Apple ID before install. Refresh about every 7 days if you use a free developer account. Widget, Watch, and App Group extras may not survive every signing setup; the iPhone app is the install target.",
+      "localizedDescription": "ParkBud looks up your street-cleaning schedule from an address and tells you which side of the street to park on. Follow light or dark mode, and add the Lock Screen widget or Apple Watch complication.\n\nThis listing is ParkBud 2.0.2. SideStore will re-sign the IPA with your Apple ID before install. Refresh about every 7 days if you use a free developer account. Widget, Watch, and App Group extras may not survive every signing setup; the iPhone app is the install target.",
       "iconURL": "https://raw.githubusercontent.com/KikeMartinG93/parkbud-ipa/main/icon.png",
       "tintColor": "#69EA28",
-      "downloadURL": "https://github.com/KikeMartinG93/parkbud-ipa/releases/download/v2.0.1/ParkBud.ipa",
-      "size": 6801945,
-      "version": "2.0.1",
+      "downloadURL": "https://github.com/KikeMartinG93/parkbud-ipa/releases/download/v2.0.2/ParkBud.ipa",
+      "size": 6808672,
+      "version": "2.0.2",
       "versionDate": "2026-10-30",
       "permissions": [
         {
@@ -22,6 +22,14 @@
         }
       ],
       "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2026-10-30",
+          "downloadURL": "https://github.com/KikeMartinG93/parkbud-ipa/releases/download/v2.0.2/ParkBud.ipa",
+          "size": 6808672,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Softer scroll edges under the bars. Includes the 2.0.1 setup change."
+        },
         {
           "version": "2.0.1",
           "date": "2026-10-30",
